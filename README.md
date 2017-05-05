@@ -1,2 +1,2 @@
 # Shader-Programming
-Some Shader Programs I Wrote.
+Some Shader Programs I wrote for unity game engine or LOVE2D.
